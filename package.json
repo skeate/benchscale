@@ -1,0 +1,28 @@
+{
+  "name": "benchscale",
+  "version": "0.1.0",
+  "description": "A wrapper for benchmark.js to test code scalability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/skeate/benchscale"
+  },
+  "keywords": [
+    "benchmark",
+    "scale",
+    "scaling",
+    "big-O"
+  ],
+  "author": "Jonathan Skeate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skeate/benchscale/issues"
+  },
+  "homepage": "https://github.com/skeate/benchscale",
+  "dependencies": {
+    "benchmark": "^1.0.0"
+  }
+}
